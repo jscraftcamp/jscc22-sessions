@@ -13,7 +13,7 @@ Create a directory for the session, add a `README.md` into it and add a link to 
 | 11:00 | Session Slot          |                                                         | JSCC website hacking (Robert)                            |                                                                    | Form Models (vs domain models) / Interactivity first with NGRX (???)        | Covid-Karte vanilla JS (Tilmann)       | Microfrontends Experience Exchange (outside) (Marion) / How to explain TDD so you do it tomorrow (Wolfram) |
 | 12:00 | Session Slot          |                                                         | Cheap website hosting with GitHub pages + actions (Jörn) | Code Sharing for React Monorepos (Jakob)                           | Smart Contracts - Introduction: Why Blockchain is not just co??? (Jonathan) | Backend APIs with TypeScript (Michael) |                                                                                                            |
 | 13:00 | Lunch                 | Lunch                                                   | Lunch                                                    | Lunch                                                              | Lunch                                                                       | Lunch                                  | Jest & Cucumber Integration? (Marion) / Jest sucks: Alternatives? (Max)                                    |
-| 14:00 | Session Slot          | Hands-on TDD Intro (Wolfram)                            | Q&A / AMA IT-Security Tech (Jan)                         |                                                                    |                                                                             | Svelte live coding (Jörn)              | Offline Capability of Apps (Patrick)                                                                       |
+| 14:00 | Session Slot          | Hands-on TDD Intro (Wolfram)                            | Q&A / AMA IT-Security Tech (Jan)                         |                                                                    |                                                                             | Svelte live coding (~Jörn~ Philip)     | Offline Capability of Apps (Patrick)                                                                       |
 | 15:00 | Session Slot          |                                                         |                                                          | Question: How to real time collaborative apps? (e.g. chat) (Jakob) | ESM - MJS ??? (Irena)                                                       | SolidJS Hands on (Bernd)               | Questions: Coding Interviews (Jonathan)                                                                    |
 | 16:00 | Session Slot          | Data Bias Design 4 Defaults (talk / discussion) (Irena) | Schools of TDD I (Marco)                                 | Lightning Tool Talks (Tilmann)                                     | Nest.JS Use cases (show yours) (Iaroslav)                                   | Q&A / AMA SSO Challenges (Jan)         |                                                                                                            |
 | 17:00 | Session Slot          |                                                         | Schools of TDD II (Marco)                                |                                                                    |                                                                             |                                        |                                                                                                            |
@@ -34,42 +34,34 @@ Create a directory for the session, add a `README.md` into it and add a link to 
 | 16:00 | Session Slot     |        |        |        |        |        |
 | 17:00 | Review & Closing |        |        |        |        |        |
 
-
-
 ## List of Session offers
 
 with preliminary time + space coordinates
 
-* Generate Typescript from OpenAPI,
-* Offline Capabilities of Apps, Patrick, Outside after Luch
-* The jscraftcamp Homepage (gatsby + Storybook + visual regression testing), Robert, matterhorn 11:00
-* Typescript is awesome <3, Tilmann, tomorrow
-* [Covid-Karte.de](https://covid-karte.de/) in plain JS, Tilmann, 11:00 1
-* Lightning talks about Tools (inlcudings mocks-server), Tilmann, 16:00 1
-* Solid.js, Bernd, 15:00
-* Discussion: Microfrontends, Marion, outside, before lunch 12:00
-* Data Bias Talk+Discussion, here, 12:00
-* Code Sharing in React Application, Jakob, 12:00 1
-* Fight: Jest is too slow, Max, 11:00 somewhere else
-* Form Models +  Interactivity First with Angular, Igor, 11:00 2
-* Cheap Hosting with Github Pages + Actions, 12:00 Matterhorn
-* Security Q and A, Jan+Jonathan, 12:00 Matterhorn
-* nest.js use cases, Jaroslav, 15:00 2
-* Discussion: How to explain TDD so you can do it tomorrow, Wolfram, 11:00 3
-* Smart Contracts Tooling, Jonathan, 12:00 2
-* Question: ems and other module styles in js,
-* Schools of TDD: Theory + Practice, Marco, 16:00 Matterhorn
-* How to build Collaboration Tools - the technology? Jakob
-* Jest + Cucumber integration, Marion, coffe place during/after lunch
-* single sign on challanges, jan, 17:00 3
-* svelte live coding, Jörn, 15:00, 1
-* Questions: coding interviews, Jonathan, outside,
-* Hands on TDD Intro, Wolfram, here, 15:00
+- Generate Typescript from OpenAPI,
+- Offline Capabilities of Apps, Patrick, Outside after Luch
+- The jscraftcamp Homepage (gatsby + Storybook + visual regression testing), Robert, matterhorn 11:00
+- Typescript is awesome <3, Tilmann, tomorrow
+- [Covid-Karte.de](https://covid-karte.de/) in plain JS, Tilmann, 11:00 1
+- Lightning talks about Tools (inlcudings mocks-server), Tilmann, 16:00 1
+- Solid.js, Bernd, 15:00
+- Discussion: Microfrontends, Marion, outside, before lunch 12:00
+- Data Bias Talk+Discussion, here, 12:00
+- Code Sharing in React Application, Jakob, 12:00 1
+- Fight: Jest is too slow, Max, 11:00 somewhere else
+- Form Models + Interactivity First with Angular, Igor, 11:00 2
+- Cheap Hosting with Github Pages + Actions, 12:00 Matterhorn
+- Security Q and A, Jan+Jonathan, 12:00 Matterhorn
+- nest.js use cases, Jaroslav, 15:00 2
+- Discussion: How to explain TDD so you can do it tomorrow, Wolfram, 11:00 3
+- Smart Contracts Tooling, Jonathan, 12:00 2
+- Question: ems and other module styles in js,
+- Schools of TDD: Theory + Practice, Marco, 16:00 Matterhorn
+- How to build Collaboration Tools - the technology? Jakob
+- Jest + Cucumber integration, Marion, coffe place during/after lunch
+- single sign on challanges, jan, 17:00 3
+- svelte live coding, Jörn, 15:00, 1
+- Questions: coding interviews, Jonathan, outside,
+- Hands on TDD Intro, Wolfram, here, 15:00
 
-
-
-
-
-
-
-* iot whatever, jan, tomorrow
+- iot whatever, jan, tomorrow
