@@ -2,6 +2,8 @@
 
 Forms models are a way to further define your specs. he purpose lies in having all the possible values of a form reflected as model definition. The form model then gets mapped to or from the regular domain models using mapper functions. These mapper functions would adjust for any differences.
 
+![Whiteboard Photo](https://pbs.twimg.com/media/FVcydoXWYAA5zFI?format=jpg&name=large)
+
 ## Use Case
 
 If you have a single page application (SPA) that manages lots of data locally (while synchronizing with the BE in the background), the you want to have your form data sanitized before sending to the BE. This is beneficial for the UX because there is no need to wait for the BE to return corrected data, the application has a real-time characted.
