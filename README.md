@@ -22,17 +22,18 @@ Create a directory for the session, add a `README.md` into it and add a link to 
 
 ## Saturday
 
-| TIME  |                  | Room 1 | Room 2 | Room 3 | Room 4 | Room 5 |
-| :---- | :--------------- | :----- | :----- | :----- | :----- | :----- |
-| 09:00 | Doors open       |        |        |        |        |        |
-| 10:00 | Marketplace      |        |        |        |        |        |
-| 11:00 | Session Slot     |        |        |        |        |        |
-| 12:00 | Session Slot     |        |        |        |        |        |
-| 13:00 | Lunch            |        |        |        |        |        |
-| 14:00 | Session Slot     |        |        |        |        |        |
-| 15:00 | Session Slot     |        |        |        |        |        |
-| 16:00 | Session Slot     |        |        |        |        |        |
-| 17:00 | Review & Closing |        |        |        |        |        |
+| TIME  |                  | Here                                                   | Matterhorn                            | Room 1                        | Room 2                                       | Room 3                                   | Somewhere else                                                                                 |
+| :---- | :--------------- | :----------------------------------------------------- | :------------------------------------ | :---------------------------- | :------------------------------------------- | :--------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 09:00 | Doors open       |                                                        |                                       |                               |                                              |                                          |                                                                                                |
+| 10:00 | Marketplace      |                                                        | React 18 News Suspense (Robert)       | Thinking use-cases (Max)      |                                              | Morning Kata (JSKatas.org) (Jörn)        |                                                                                                |
+| 11:00 | Session Slot     |                                                        | Q&A EventSourcing (Jan)               | Vite?! (Tilman)               | Smart Contracts II (Tools + Code) (Jonathan) | Help me upgrade my Curriculum (Brigitte) | Media Blog, Video, Audio (@cowglow) / Discussion: Do we need GraphQL or is Rest enough? (Bene) |
+| 12:00 | Lunch            | Lunch                                                  | Lunch                                 | Lunch                         | Lunch                                        | Lunch                                    | Sustainability (Wolfram)                                                                       |
+| 13:00 | Session Slot     | JavaScript the Language Meetup IRL (Wolfram)           |                                       |                               |                                              | Mint your own NFT (Lars)                 | Question: Angular CDK (Lonely Dan)                                                             |
+| 14:00 | Session Slot     | Instana? (Robert)                                      | Mutation Testing with Stryker (Marco) | Intro to DB and Indexes (Max) | React Component Library API Design (Jörn)    | P5JS (@cowglow)                          |                                                                                                |
+| 15:00 | Session Slot     |                                                        | Security contd. (???)                 |                               |                                              | Svelte (Corinna)                         | Move from Gatsby to Next?! Discussion (Irena)                                                  |
+| 16:00 | Session Slot     |                                                        | Hands-on TDD-Schools (Marco)          |                               | Q&A / AMA IoT (outside) (Jan)                |                                          |                                                                                                |
+| 17:00 | Session Slot     | #buildless NO webpack, NO bundler, YES speed (Wolfram) |                                       |                               | SBOM (19028) (Simon)                         |                                          |                                                                                                |
+| 18:00 | Review & Closing |                                                        |                                       |                               |                                              |                                          |                                                                                                |
 
 ## List of Session offers
 
